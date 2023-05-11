@@ -6,7 +6,7 @@ public class SegmentCalculator{
         string tempString = String.Empty;
         List<string> listOfNumbers = new List<string>();
         List<char> listOfOperators = new List<char>();
-        //this loop can be refactored. I possibly don't need the checks for '-' if it enters the while loop because of the presense
+        //this loop can be refactored. I possibly don't need the checks for '-' if it enters the while loop because of the presence
         //of '-', then it shouldn't be poisslbe to enter the loop unless i == 0
 
         for(int i = 0; i < str.Length; i++){
