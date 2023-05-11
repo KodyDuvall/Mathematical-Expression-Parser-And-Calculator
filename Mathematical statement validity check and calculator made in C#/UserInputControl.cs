@@ -11,7 +11,7 @@ public class UserInputControl{
 
     private void Introduction(){
         System.Console.WriteLine();
-        System.Console.WriteLine("This is an application that can parse a series of mathematical expressions that are in a single string.");
+        System.Console.WriteLine("This is an application that can parse an input of a mathematical expression that is in a single string.");
         System.Console.WriteLine("This application will parse it such that it becomes calculable, and then it will display the calculated result.");
         System.Console.WriteLine();        
         System.Console.WriteLine("If you want to learn more about the specifics of this program, type L and press enter.");
