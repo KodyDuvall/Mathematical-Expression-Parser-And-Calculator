@@ -1,0 +1,15 @@
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\bin\Debug\net7.0\Mathematical statement validity check and calculator made in C#.exe
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\bin\Debug\net7.0\Mathematical statement validity check and calculator made in C#.deps.json
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\bin\Debug\net7.0\Mathematical statement validity check and calculator made in C#.runtimeconfig.json
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\bin\Debug\net7.0\Mathematical statement validity check and calculator made in C#.dll
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\bin\Debug\net7.0\Mathematical statement validity check and calculator made in C#.pdb
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.csproj.AssemblyReference.cache
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.AssemblyInfoInputs.cache
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.AssemblyInfo.cs
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.csproj.CoreCompileInputs.cache
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.dll
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\refint\Mathematical statement validity check and calculator made in C#.dll
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.pdb
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\Mathematical statement validity check and calculator made in C#.genruntimeconfig.cache
+C:\Users\14059\Documents\Computer Programming\Mathematical statement validity check and calculator made in C#\obj\Debug\net7.0\ref\Mathematical statement validity check and calculator made in C#.dll

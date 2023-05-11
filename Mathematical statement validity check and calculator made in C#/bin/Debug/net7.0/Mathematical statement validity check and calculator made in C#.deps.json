@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Mathematical statement validity check and calculator made in C#/1.0.0": {
+        "runtime": {
+          "Mathematical statement validity check and calculator made in C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mathematical statement validity check and calculator made in C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
